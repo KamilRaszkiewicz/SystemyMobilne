@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zadanko1</string>
+    <string name="btn_true">Tak</string>
+    <string name="btn_false">Nie</string>
+    <string name="btn_next">Następne pytanie</string>
+    <string name="answer_correct">Dobra odpowiedź</string>
+    <string name="answer_wrong">Zła odpowiedź</string>
+
+    <string name="correct_answers">Poprawne odpowiedzi: %1$d</string>
+    <string name="wrong_answers">Niepoprawne odpowiedzi: %1$d</string>
+    <string name="no_answers">Nie odpowiedziano: %1$d</string>
+</resources>

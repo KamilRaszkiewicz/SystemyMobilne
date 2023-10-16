@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question id="1" answer="false" text="Czy ogry są niebieskie?"></question>
+    <question id="2" answer="false" text="Czy to jest jedyne pytanie w tym quizie?"></question>
+    <question id="3" answer="true" text="Czy następnym klikniętym przez Ciebie przyciskiem będzie 'Tak'?"></question>
+    <question id="4" answer="true" text="Czy lubisz placki?"></question>
+    <question id="5" answer="false" text="Czy śrubę z 'lewym gwintem' dokręca się zgodnie z ruchem wskazówek zegara?"></question>
+</questions>
